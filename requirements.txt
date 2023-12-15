@@ -1,0 +1,6 @@
+pandas
+streamlit
+geopandas
+joblib
+plotly
+geojson
